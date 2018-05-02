@@ -1,0 +1,9 @@
+Building Uemcoin
+
+See doc/readme-qt.rst for instructions on building Uemcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Uemcoin.
+
+See doc/build-*.txt for instructions on building uemcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Uemcoin.
